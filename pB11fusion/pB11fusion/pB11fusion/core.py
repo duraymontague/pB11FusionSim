@@ -30,4 +30,4 @@ def loss_fraction(n_e, n_i, T_e_ev, volume=1.0):
     """
     P_brem = bremsstrahlung_power(n_e, n_i, T_e_ev, volume=volume)
     P_fusion = 2 * alpha_energy_capture(e_alpha=3.76e6, grid_efficiency=1.0) * n_i * volume
-    return P_brem / P_fusion if P_fusion > 0 else 0
+    return P_brem / P_fusion if P_fusion > 0 else 0 
