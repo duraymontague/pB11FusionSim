@@ -36,6 +36,4 @@ Commit each one (or add multiple at once if GitHub lets you).
    - `pip install -e .`
    - `python examples/basic_sim.py` (should print a loss fraction value)
 
-Once all files are up, your repo is live and shareable! You can post it on LinkedIn/Reddit: "Just open-sourced pB11FusionSim — a basic Python tool for p-B11 fusion modeling. Feedback welcome!"
 
-Let me know when README is committed — or if you hit any issues pasting/committing. We're almost there! 🔥
